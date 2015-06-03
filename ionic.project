@@ -1,6 +1,6 @@
 {
-  "name": "ionic-contact-app",
-  "app_id": "",
+  "name": "Contact List",
+  "app_id": "br.com.brunoramalho.contact-list",
   "gulpStartupTasks": [
     "sass",
     "watch"
